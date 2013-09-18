@@ -1,0 +1,40 @@
+﻿@model Serials.Web.Models.MyPageViewMode
+
+<p>
+    System scanned serials: @string.Join(", ", Model.Serials)
+</p>
+
+<h2>Recent episodes</h2>
+<table>
+    <tr>
+    <th>Date</th><th>Serial</th><th>Number</th><th>Name</th><th>Subtitles</th>
+    </tr>
+    @foreach (var episode in Model.RecentEpisodes)
+    {
+        <tr>
+            <td>@episode.PremiereDate.ToShortDateString()</td>
+            <td>@episode.SerialName</td>
+            <td>@episode.Number</td>
+            <td>@episode.Name</td>
+            <td>@episode.Subtitles</td>
+        </tr>
+    }
+</table>
+
+
+<h2>Upcomming episodes</h2>
+<table>
+    <tr>
+    <th>Date</th><th>Serial</th><th>Number</th><th>Name</th><th>Subtitles</th>
+    </tr>
+    @foreach (var episode in Model.UpcommingEpisodes)
+    {
+        <tr>
+            <td>@episode.PremiereDate.ToShortDateString()</td>
+            <td>@episode.SerialName</td>
+            <td>@episode.Number</td>
+            <td>@episode.Name</td>
+            <td>@episode.Subtitles</td>
+        </tr>
+    }
+</table>

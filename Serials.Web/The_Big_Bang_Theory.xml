@@ -1,0 +1,981 @@
+<?xml version="1.0"?>
+<SerialModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Seasons>
+    <Season>
+      <Title>Season 1: 2007–08</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Pilot"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2007-09-24T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Big Bran Hypothesis"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2007-10-01T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Fuzzy Boots Corollary"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2007-10-08T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Luminous Fish Effect"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2007-10-15T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Hamburger Postulate"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2007-10-22T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Middle-Earth Paradigm"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2007-10-29T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Dumpling Paradox"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2007-11-05T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Grasshopper Experiment"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2007-11-12T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Cooper-Hofstadter Polarization"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2008-03-17T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Loobenfeld Decay"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2008-03-24T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Pancake Batter Anomaly"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2008-03-31T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Jerusalem Duality"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2008-04-14T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Bat Jar Conjecture"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2008-04-21T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Nerdvana Annihilation"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2008-04-28T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Shiksa Indeterminacy"[26]
+"The Pork Chop Indeterminacy"[27]</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2008-05-05T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Peanut Reaction"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2008-05-12T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Tangerine Factor"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2008-05-19T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 2: 2008–09</Title>
+      <Episodes>
+        <Episode>
+          <Name>"The Bad Fish Paradigm"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2008-09-22T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Codpiece Topology"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2008-09-29T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Barbarian Sublimation"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2008-10-06T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Griffin Equivalency"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2008-10-13T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Euclid Alternative"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2008-10-20T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Cooper–Nowitzki Theorem"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2008-11-03T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Panty Piñata Polarization"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2008-11-10T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Lizard–Spock Expansion"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2008-11-17T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The White Asparagus Triangulation"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2008-11-24T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Vartabedian Conundrum"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2008-12-08T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Bath Item Gift Hypothesis"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2008-12-15T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Killer Robot Instability"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2009-01-12T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Friendship Algorithm"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2009-01-19T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Financial Permeability"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2009-02-02T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Maternal Capacitance"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2009-02-09T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Cushion Saturation"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2009-03-02T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Terminator Decoupling"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2009-03-09T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Work Song Nanocluster"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2009-03-16T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Dead Hooker Juxtaposition"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2009-03-30T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Hofstadter Isotope"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2009-04-13T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Vegas Renormalization"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2009-04-27T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Classified Materials Turbulence"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2009-05-04T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Monopolar Expedition"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2009-05-11T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 3: 2009–10</Title>
+      <Episodes>
+        <Episode>
+          <Name>"The Electric Can Opener Fluctuation"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2009-09-21T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Jiminy Conjecture"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2009-09-28T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Gothowitz Deviation"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2009-10-05T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Pirate Solution"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2009-10-12T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Creepy Candy Coating Corollary"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2009-10-19T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Cornhusker Vortex"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2009-11-02T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Guitarist Amplification"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2009-11-09T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Adhesive Duck Deficiency"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2009-11-16T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Vengeance Formulation"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2009-11-23T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Gorilla Experiment"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2009-12-07T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Maternal Congruence"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2009-12-14T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Psychic Vortex"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2010-01-11T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Bozeman Reaction"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2010-01-18T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Einstein Approximation"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2010-02-01T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Large Hadron Collision"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2010-02-08T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Excelsior Acquisition"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2010-03-01T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Precious Fragmentation"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2010-03-08T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Pants Alternative"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2010-03-22T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Wheaton Recurrence"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2010-04-12T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Spaghetti Catalyst"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2010-05-03T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Plimpton Stimulation"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2010-05-10T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Staircase Implementation"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2010-05-17T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Lunar Excitation"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2010-05-24T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 4: 2010–11</Title>
+      <Episodes>
+        <Episode>
+          <Name>"The Robotic Manipulation"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2010-09-23T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Cruciferous Vegetable Amplification"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2010-09-30T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Zazzy Substitution"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2010-10-07T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Hot Troll Deviation"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2010-10-14T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Desperation Emanation"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2010-10-21T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Irish Pub Formulation"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2010-10-28T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Apology Insufficiency"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2010-11-04T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The 21-Second Excitation"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2010-11-11T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Boyfriend Complexity"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2010-11-18T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Alien Parasite Hypothesis"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2010-12-09T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Justice League Recombination"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2010-12-16T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Bus Pants Utilization"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2011-01-06T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Love Car Displacement"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2011-01-20T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Thespian Catalyst"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2011-02-03T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Benefactor Factor"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2011-02-10T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Cohabitation Formulation"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2011-02-17T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Toast Derivation"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2011-02-24T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Prestidigitation Approximation"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2011-03-10T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Zarnecki Incursion"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2011-03-31T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Herb Garden Germination"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2011-04-07T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Agreement Dissection"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2011-04-28T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Wildebeest Implementation"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2011-05-05T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Engagement Reaction"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2011-05-12T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Roommate Transmogrification"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>24</EpisodeNumber>
+          <PremiereDate>2011-05-19T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 5: 2011–12</Title>
+      <Episodes>
+        <Episode>
+          <Name>"The Skank Reflex Analysis"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2011-09-22T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Infestation Hypothesis"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2011-09-22T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Pulled Groin Extrapolation"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2011-09-29T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Wiggly Finger Catalyst"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2011-10-06T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Russian Rocket Reaction"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2011-10-13T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Rhinitis Revelation"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2011-10-20T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Good Guy Fluctuation"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2011-10-27T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Isolation Permutation"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2011-11-03T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Ornithophobia Diffusion"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2011-11-10T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Flaming Spittoon Acquisition"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2011-11-17T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Speckerman Recurrence"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2011-12-08T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Shiny Trinket Maneuver"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2012-01-12T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Recombination Hypothesis"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2012-01-19T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Beta Test Initiation"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2012-01-26T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Friendship Contraction"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2012-02-02T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Vacation Solution"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2012-02-09T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Rothman Disintegration"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2012-02-16T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Werewolf Transformation"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2012-02-23T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Weekend Vortex"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2012-03-08T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Transporter Malfunction"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2012-03-29T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Hawking Excitation"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2012-04-05T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Stag Convergence"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2012-04-26T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Launch Acceleration"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2012-05-03T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Countdown Reflection"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>24</EpisodeNumber>
+          <PremiereDate>2012-05-10T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 6: 2012</Title>
+      <Episodes>
+        <Episode>
+          <Name>"The Date Night Variable"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2012-09-27T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Decoupling Fluctuation"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2012-10-04T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Higgs Boson Observation"[129]</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2012-10-11T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Re-Entry Minimization"[130]</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2012-10-18T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Holographic Excitation"[131]</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2012-10-25T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Extract Obliteration"[132]</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2012-11-01T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Habitation Configuration"[133]</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2012-11-08T00:00:00</PremiereDate>
+          <SerialName>The Big Bang Theory</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+  </Seasons>
+  <Title>The Big Bang Theory</Title>
+</SerialModel>

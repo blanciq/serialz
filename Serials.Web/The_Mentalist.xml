@@ -1,0 +1,871 @@
+<?xml version="1.0"?>
+<SerialModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Seasons>
+    <Season>
+      <Title>Season 1 (2008–2009)</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Pilot"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2008-09-23T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Hair and Silver Tape"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2008-09-30T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Tide"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2008-10-14T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Ladies in Red"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2008-10-21T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Redwood"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2008-10-28T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Handed"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2008-11-11T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Seeing Red"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2008-11-18T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Thin Red Line"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2008-11-25T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Flame Red"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2008-12-02T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Brick and Ivy"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2008-12-16T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red John's Friends"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2009-01-06T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Rum"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2009-01-13T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Paint it Red"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2009-01-18T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Crimson Casanova"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2009-02-10T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Scarlett Fever"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2009-02-17T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Bloodshot"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2009-03-17T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Carnelian, Inc."</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2009-03-24T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Russet Potatoes"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2009-03-31T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"A Dozen Red Roses"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2009-04-07T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Sauce"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2009-04-28T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Miss Red"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2009-05-05T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Blood Brothers"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2009-05-12T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red John's Footsteps"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2009-05-19T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 2 (2009–2010)</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Redemption"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2009-09-24T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Scarlet Letter"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2009-10-01T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Badge"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2009-10-08T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Menace"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2009-10-15T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Scare"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2009-10-29T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Black Gold and Red Blood"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2009-11-05T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Bulls"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2009-11-12T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"His Red Right Hand"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2009-11-19T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"A Price Above Rubies"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2009-12-10T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Throwing Fire"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2009-12-17T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Rose-Colored Glasses"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2010-01-14T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Bleeding Heart"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2010-01-21T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Redline"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2010-02-04T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Blood In, Blood Out"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2010-02-11T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Herring"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2010-03-04T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Code Red"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2010-03-11T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Red Box"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2010-04-01T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Aingavite Baa"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2010-04-08T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Blood Money"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2010-04-22T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red All Over"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2010-04-29T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"18-5-4"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2010-05-06T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Letter"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2010-05-13T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Sky in the Morning"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2010-05-20T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 3 (2010–2011)</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Red Sky at Night"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2010-09-23T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Cackle-Bladder Blood"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2010-09-30T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Blood on His Hands"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2010-10-07T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Carpet Treatment"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2010-10-14T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Red Ponies"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2010-10-21T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Pink Chanel Suit"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2010-10-28T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Hot"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2010-11-04T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Ball of Fire"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2010-11-11T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Moon"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2010-11-18T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Jolly Red Elf"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2010-12-09T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Bloodsport"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2011-01-06T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Bloodhounds"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2011-01-20T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Alert"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2011-02-03T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Blood for Blood"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2011-02-10T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Gold"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2011-02-17T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Queen"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2011-02-24T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Bloodstream"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2011-03-10T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Red Mile"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2011-03-31T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Every Rose Has Its Thorn"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2011-04-07T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Redacted"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2011-04-28T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Like a Redheaded Stepchild"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2011-05-05T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Rhapsody in Red"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2011-05-12T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Strawberries and Cream (Part 1)"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2011-05-19T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Strawberries and Cream (Part 2)"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>24</EpisodeNumber>
+          <PremiereDate>2011-05-19T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 4 (2011–2012)</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Scarlet Ribbons"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2011-09-22T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Little Red Book"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2011-09-29T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Pretty Red Balloon"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2011-10-06T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Ring Around the Rosie"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2011-10-13T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Blood and Sand"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2011-10-20T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Where in the World Is Carmine O'Brien?"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2011-10-27T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Blinking Red Light"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2011-11-03T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Pink Tops"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2011-11-17T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Redshirt"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2011-12-08T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Fugue in Red"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2011-12-15T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Always Bet on Red"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2012-01-12T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"My Bloody Valentine"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2012-01-19T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red is the New Black"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2012-02-02T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"At First Blush"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2012-02-09T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"War of the Roses"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2012-02-16T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"His Thoughts Were Red Thoughts"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2012-02-23T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Cheap Burgundy"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2012-03-08T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Ruddy Cheeks"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2012-03-08T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Pink Champagne on Ice"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2012-03-29T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Something's Rotten in Redmund"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2012-04-05T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Ruby Slippers"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2012-04-26T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"So Long, and Thanks for All the Red Snapper"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2012-05-03T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Rover, Red Rover"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2012-05-10T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Crimson Hat"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>24</EpisodeNumber>
+          <PremiereDate>2012-05-17T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 5 (2012)</Title>
+      <Episodes>
+        <Episode>
+          <Name>"The Crimson Ticket"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2012-09-30T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Devil's Cherry"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2012-10-07T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Not One Red Cent"[99]</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2012-10-14T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Blood Feud"[100]</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2012-10-21T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Cherry Picked"[101]</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2012-10-28T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Dawn"[104]</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2012-11-04T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"If It Bleeds, It Leads"[106]</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2012-11-11T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Red Sails in the Sunset"[107]</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>0001-01-01T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name />
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>0001-01-01T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name />
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>0001-01-01T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name />
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>0001-01-01T00:00:00</PremiereDate>
+          <SerialName>The Mentalist</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+  </Seasons>
+  <Title>The Mentalist</Title>
+</SerialModel>

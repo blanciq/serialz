@@ -1,0 +1,1390 @@
+<?xml version="1.0"?>
+<SerialModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Seasons>
+    <Season>
+      <Title>Season 1: 2005–2006</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Pilot"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2005-09-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Purple Giraffe"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2005-09-26T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Sweet Taste of Liberty"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2005-10-03T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Return of the Shirt"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2005-10-10T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Okay Awesome"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2005-10-17T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Slutty Pumpkin"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2005-10-24T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Matchmaker"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2005-11-07T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Duel"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2005-11-14T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Belly Full of Turkey"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2005-11-21T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Pineapple Incident"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2005-11-28T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Limo"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2005-12-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Wedding"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2006-01-09T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Drumroll, Please"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2006-01-23T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Zip, Zip, Zip"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2006-02-06T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Game Night"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2006-02-27T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Cupcake"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2006-03-06T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Life Among the Gorillas"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2006-03-20T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Nothing Good Happens After 2 A.M."</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2006-04-10T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Mary the Paralegal"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2006-04-24T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Best Prom Ever"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2006-05-01T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Milk"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2006-05-08T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Come On"</Name>
+          <SeasonNumber>01</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2006-05-15T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 2: 2006–2007</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Where Were We?"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2006-09-18T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Scorpion and the Toad"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2006-09-25T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Brunch"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2006-10-02T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Ted Mosby: Architect"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2006-10-09T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"World's Greatest Couple"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2006-10-16T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Aldrin Justice"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2006-10-23T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Swarley"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2006-11-06T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Atlantic City"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2006-11-13T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Slap Bet"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2006-11-20T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Single Stamina"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2006-11-27T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"How Lily Stole Christmas"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2006-12-11T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"First Time in New York"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2007-01-08T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Columns"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2007-01-22T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Monday Night Football"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2007-02-05T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Lucky Penny"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2007-02-12T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Stuff"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2007-02-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Arrivederci, Fiero"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2007-02-26T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Moving Day"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2007-03-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Bachelor Party"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2007-04-09T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Showdown"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2007-04-30T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Something Borrowed"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2007-05-07T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Something Blue"</Name>
+          <SeasonNumber>02</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2007-05-14T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 3: 2007–2008</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Wait for It"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2007-09-24T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"We're Not from Here"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2007-10-01T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Third Wheel"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2007-10-08T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Little Boys"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2007-10-15T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"How I Met Everyone Else"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2007-10-22T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"I'm Not That Guy"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2007-10-29T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Dowisetrepla"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2007-11-05T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Spoiler Alert"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2007-11-12T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Slapsgiving"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2007-11-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Yips"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2007-11-26T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Platinum Rule"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2007-12-10T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"No Tomorrow"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2008-03-17T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Ten Sessions"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2008-03-24T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Bracket"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2008-03-31T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Chain of Screaming"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2008-04-14T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Sandcastles in the Sand"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2008-04-21T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Goat"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2008-04-28T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Rebound Bro"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2008-05-05T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Everything Must Go"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2008-05-12T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Miracles"</Name>
+          <SeasonNumber>03</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2008-05-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 4: 2008–2009</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Do I Know You?"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2008-09-22T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Best Burger in New York"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2008-09-29T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"I Heart NJ"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2008-10-06T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Intervention"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2008-10-13T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Shelter Island"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2008-10-20T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Happily Ever After"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2008-11-03T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Not a Father's Day"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2008-11-10T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Woooo!"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2008-11-17T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Naked Man"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2008-11-24T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Fight"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2008-12-08T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Little Minnesota"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2008-12-15T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Benefits"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2009-01-12T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Three Days of Snow"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2009-01-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Possimpible"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2009-02-02T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Stinsons"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2009-03-02T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Sorry, Bro"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2009-03-09T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Front Porch"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2009-03-16T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Old King Clancy"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2009-03-23T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Murtaugh"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2009-03-30T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Mosbius Designs"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2009-04-13T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Three Days Rule"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2009-04-27T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Right Place, Right Time"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2009-05-04T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"As Fast as She Can"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2009-05-11T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Leap"</Name>
+          <SeasonNumber>04</SeasonNumber>
+          <EpisodeNumber>24</EpisodeNumber>
+          <PremiereDate>2009-05-18T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 5: 2009–2010</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Definitions"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2009-09-21T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Double Date"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2009-09-28T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Robin 101"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2009-10-05T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Sexless Innkeeper"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2009-10-12T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Duel Citizenship"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2009-10-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Bagpipes"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2009-11-02T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Rough Patch"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2009-11-09T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Playbook"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2009-11-16T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Slapsgiving 2: Revenge of the Slap"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2009-11-23T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Window"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2009-12-07T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Last Cigarette Ever"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2009-12-14T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Girls Versus Suits"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2010-01-11T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Jenkins"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2010-01-18T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Perfect Week"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2010-02-01T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Rabbit or Duck"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2010-02-08T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Hooked"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2010-03-01T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Of Course"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2010-03-08T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Say Cheese"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2010-03-22T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Zoo or False"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2010-04-12T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Home Wreckers"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2010-04-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Twin Beds"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2010-05-03T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Robots Versus Wrestlers"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2010-05-10T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Wedding Bride"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2010-05-17T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Doppelgangers"</Name>
+          <SeasonNumber>05</SeasonNumber>
+          <EpisodeNumber>24</EpisodeNumber>
+          <PremiereDate>2010-05-24T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 6: 2010–2011</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Big Days"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2010-09-20T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Cleaning House"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2010-09-27T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Unfinished"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2010-10-04T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Subway Wars"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2010-10-11T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Architect of Destruction"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2010-10-18T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Baby Talk"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2010-10-25T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Canning Randy"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2010-11-01T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Natural History"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2010-11-08T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Glitter"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2010-11-15T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Blitzgiving"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2010-11-22T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Mermaid Theory"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2010-12-06T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"False Positive"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2010-12-13T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Bad News"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2011-01-03T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Last Words"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2011-01-17T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Oh Honey"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2011-02-07T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Desperation Day"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2011-02-14T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Garbage Island"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2011-02-21T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"A Change of Heart"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2011-02-28T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Legendaddy"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2011-03-21T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Exploding Meatball Sub"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2011-04-11T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Hopeless"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2011-04-18T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Perfect Cocktail"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2011-05-02T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Landmarks"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2011-05-09T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Challenge Accepted"</Name>
+          <SeasonNumber>06</SeasonNumber>
+          <EpisodeNumber>24</EpisodeNumber>
+          <PremiereDate>2011-05-16T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 7: 2011–2012</Title>
+      <Episodes>
+        <Episode>
+          <Name>"The Best Man"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2011-09-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Naked Truth"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2011-09-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Ducky Tie"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2011-09-26T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Stinson Missile Crisis"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2011-10-03T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Field Trip"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2011-10-10T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Mystery vs. History"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2011-10-17T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Noretta"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2011-10-24T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Slutty Pumpkin Returns"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2011-10-31T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Disaster Averted"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>09</EpisodeNumber>
+          <PremiereDate>2011-11-07T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Tick Tick Tick…"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>10</EpisodeNumber>
+          <PremiereDate>2011-11-14T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Rebound Girl"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>11</EpisodeNumber>
+          <PremiereDate>2011-11-21T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Symphony of Illumination"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>12</EpisodeNumber>
+          <PremiereDate>2011-12-05T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Tailgate"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>13</EpisodeNumber>
+          <PremiereDate>2012-01-02T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"46 Minutes"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>14</EpisodeNumber>
+          <PremiereDate>2012-01-16T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Burning Beekeeper"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>15</EpisodeNumber>
+          <PremiereDate>2012-02-06T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Drunk Train"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>16</EpisodeNumber>
+          <PremiereDate>2012-02-13T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"No Pressure"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>17</EpisodeNumber>
+          <PremiereDate>2012-02-20T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Karma"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>18</EpisodeNumber>
+          <PremiereDate>2012-02-27T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Broath"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>19</EpisodeNumber>
+          <PremiereDate>2012-03-19T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Trilogy Time"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>20</EpisodeNumber>
+          <PremiereDate>2012-04-09T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Now We're Even"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>21</EpisodeNumber>
+          <PremiereDate>2012-04-16T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Good Crazy"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>22</EpisodeNumber>
+          <PremiereDate>2012-04-30T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Magician's Code, Part One"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>23</EpisodeNumber>
+          <PremiereDate>2012-05-14T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Magician's Code, Part Two"</Name>
+          <SeasonNumber>07</SeasonNumber>
+          <EpisodeNumber>24</EpisodeNumber>
+          <PremiereDate>2012-05-14T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+    <Season>
+      <Title>Season 8: 2012</Title>
+      <Episodes>
+        <Episode>
+          <Name>"Farhampton"</Name>
+          <SeasonNumber>08</SeasonNumber>
+          <EpisodeNumber>01</EpisodeNumber>
+          <PremiereDate>2012-09-24T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Pre-Nup"</Name>
+          <SeasonNumber>08</SeasonNumber>
+          <EpisodeNumber>02</EpisodeNumber>
+          <PremiereDate>2012-10-01T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Nannies"</Name>
+          <SeasonNumber>08</SeasonNumber>
+          <EpisodeNumber>03</EpisodeNumber>
+          <PremiereDate>2012-10-08T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>Polish</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Who Wants to Be a Godparent?"[83]</Name>
+          <SeasonNumber>08</SeasonNumber>
+          <EpisodeNumber>04</EpisodeNumber>
+          <PremiereDate>2012-10-15T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Pauses and Paws"[85]</Name>
+          <SeasonNumber>08</SeasonNumber>
+          <EpisodeNumber>05</EpisodeNumber>
+          <PremiereDate>2012-10-22T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Splitsville"[85]</Name>
+          <SeasonNumber>08</SeasonNumber>
+          <EpisodeNumber>06</EpisodeNumber>
+          <PremiereDate>2012-10-29T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"The Stamp Tramp"[85]</Name>
+          <SeasonNumber>08</SeasonNumber>
+          <EpisodeNumber>07</EpisodeNumber>
+          <PremiereDate>2012-11-05T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+        <Episode>
+          <Name>"Twelve Horny Women"[85]</Name>
+          <SeasonNumber>08</SeasonNumber>
+          <EpisodeNumber>08</EpisodeNumber>
+          <PremiereDate>2012-11-12T00:00:00</PremiereDate>
+          <SerialName>How I Met Your Mother</SerialName>
+          <Subtitles>None</Subtitles>
+        </Episode>
+      </Episodes>
+    </Season>
+  </Seasons>
+  <Title>How I Met Your Mother</Title>
+</SerialModel>

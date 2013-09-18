@@ -1,0 +1,29 @@
+﻿@model Serials.DAL.Models.Serial
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    @using (Html.BeginForm())
+    {
+        @Html.TextBox("title")
+        @Html.Label("Store in repo")
+        @Html.CheckBox("store", false)
+        <button type="submit">Search</button>
+    }
+</div>
+<h2>@Model.Title</h2>
+<table>
+    <tr>
+    <th>Date</th><th>Number</th><th>Name</th><th>Subtitles</th>
+    </tr>
+    @foreach (var episode in Model.GetAllEpisodes(true))
+    {
+        <tr>
+            <td>@episode.PremiereDate.ToShortDateString()</td>
+            <td>@episode.Number</td>
+            <td>@episode.Name</td>
+            <td>@episode.Subtitles</td>
+        </tr>
+    }
+</table>
