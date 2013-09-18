@@ -52,6 +52,7 @@
     <Compile Include="Extensions\HtmlDOMExtensions.cs" />
     <Compile Include="Helpers\Napisy24Checker.cs" />
     <Compile Include="Helpers\RequestHelper.cs" />
+    <Compile Include="Helpers\TvRageParser.cs" />
     <Compile Include="Helpers\WikiParser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

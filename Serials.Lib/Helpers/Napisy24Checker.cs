@@ -8,7 +8,7 @@ namespace Serials.Lib.Helpers
         {
             var url = "http://napisy24.pl/search.php?str=" + serialName.Replace(" ", "+") + "+" + episode;
 
-            var html = RequestHelper.FetchHtmlFromUrlAsString(url);
+            var html = RequestHelper.FetchResponseString(url);
 
             if (html.IndexOf("alt=\"Polski\"") != -1)
                 return SubtitlesType.Polish;

@@ -13,10 +13,11 @@ namespace Serials.DAL.Repositories
             using (var client = new RedisClient(RedisServer))
             using (var serials = client.As<Serial>())
             {
-                if (
-                    serials.GetAll()
+                if (serials.GetAll()
                            .Any(x => string.Equals(x.Title, serial.Title, StringComparison.InvariantCultureIgnoreCase)))
-                    return;
+                {
+                    serials.Delete(Get(serial.Title));
+                }
                 serials.Store(serial);
             }
         }

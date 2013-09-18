@@ -26,5 +26,13 @@ namespace Serials.Lib.Tests
 
             Assert.AreEqual(new DateTime(2008, 9, 22), result);
         }
+
+        [Test]
+        public void DefaultFormat()
+        {
+            var dateTime = DateTime.Parse("2008-09-22", CultureInfo.InvariantCulture);
+
+            Assert.AreEqual(new DateTime(2008, 9, 22), dateTime);
+        }
     }
 }

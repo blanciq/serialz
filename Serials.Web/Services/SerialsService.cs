@@ -1,6 +1,8 @@
 using System;
 using System.IO;
+using System.Linq;
 using System.Net;
+using System.Xml.Linq;
 using Newtonsoft.Json.Linq;
 
 namespace Serials.Web.Services
@@ -17,6 +19,24 @@ namespace Serials.Web.Services
             {
                 dynamic jsonResponse = JToken.Parse(reader.ReadToEnd());
                 return jsonResponse.responseData.results[0].url;
+            }
+        }
+
+        public static string GetRageTvUrl(string title)
+        {
+            var webRequest =
+                WebRequest.Create("http://services.tvrage.com/feeds/search.php?show=" + title);
+
+            var webResponse = webRequest.GetResponse();
+            using (var reader = new StreamReader(webResponse.GetResponseStream()))
+            {
+                var doc = XDocument.Load(reader);
+                var show = doc.Root.Descendants("show").FirstOrDefault();
+                if (show == null)
+                {
+                    throw new Exception("cannot find series with name " + title);
+                }
+                return "http://services.tvrage.com/feeds/full_show_info.php?sid=" + show.Element("showid").Value;
             }
         }
     }

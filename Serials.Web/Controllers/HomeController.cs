@@ -16,7 +16,7 @@ namespace Serials.Web.Controllers
         {
             var model = new MyPageViewMode();
 
-            var serials = new string[] {"Fringe, The Big Bang Theory", "Mentalist"};
+            var serials = new string[] {"Breaking Bad", "The Big Bang Theory", "Mentalist", "Dexter", "Suits"};
             foreach (var serial in serials)
             {
                 try
@@ -45,11 +45,11 @@ namespace Serials.Web.Controllers
         }
 
         [HttpPost]
-        public ActionResult Index(string title, bool store = false)
+        public ActionResult Index(string title, bool store = false, bool cache = true)
         {
             
 
-            var model = GetSerialModelWithCache(title);
+            var model = GetSerialModelWithCache(title, cache);
 
             if (store)
             {
@@ -59,23 +59,28 @@ namespace Serials.Web.Controllers
             return View(model);
         }
 
-        private static Serial GetSerialModelWithCache(string title)
+        private static Serial GetSerialModelWithCache(string title, bool useCache = true)
         {
-            var model = new SerialRepository().Get(title);
+            Serial model = null;
+            if (useCache)
+            {
+                model = new SerialRepository().Get(title);
+            }
+
             if (model == null)
             {
-                var url = SerialsService.GetWikiUrl(title);
+                var url = SerialsService.GetRageTvUrl(title);
 
                 model = GetSerialViewModel(url);
             }
             return model;
         }
 
-        private static Serial GetSerialViewModel(string wikiUrl)
+        private static Serial GetSerialViewModel(string detailsXml)
         {
             var doc =
-                RequestHelper.FetchHtmlFromUrlAsXDocument(wikiUrl);
-            var parser = new WikiParser(doc);
+                RequestHelper.FetchXmlFromUrlAsXDocument(detailsXml);
+            var parser = new TvRageParser(doc);
             var model = parser.Parse();
             var checker = new Napisy24Checker();
             foreach (var episode in model.GetAllEpisodes(true))
