@@ -39,16 +39,13 @@ namespace Serials.Web.Controllers
 
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!";
-            var model = GetSerialModelWithCache("The Big Bang Theory");
+            var model = new HomePageViewModel();
+            model.Serials = new SerialRepository().GetAllSerialsSummary();
             return View(model);
         }
 
-        [HttpPost]
-        public ActionResult Index(string title, bool store = false, bool cache = true)
+        public ActionResult Details(string title, bool store = false, bool cache = true)
         {
-            
-
             var model = GetSerialModelWithCache(title, cache);
 
             if (store)
@@ -83,9 +80,11 @@ namespace Serials.Web.Controllers
             var parser = new TvRageParser(doc);
             var model = parser.Parse();
             var checker = new Napisy24Checker();
+            var torrentChecker = new TorrentChecker();
             foreach (var episode in model.GetAllEpisodes(true))
             {
                 episode.Subtitles = checker.Check(episode.SerialName, episode.Number);
+                episode.HasTorrent = torrentChecker.Check(episode.SerialName, episode.Number);
             }
             return model;
         }

@@ -1,0 +1,22 @@
+﻿@model Serials.DAL.Models.Serial
+
+@{
+    ViewBag.Title = Model.Title;
+}
+
+<h2>@Model.Title</h2>
+<table>
+    <tr>
+    <th>Date</th><th>Number</th><th>Name</th><th>Subtitles</th><th>Torrent</th>
+    </tr>
+    @foreach (var episode in Model.GetAllEpisodes())
+    {
+        <tr>
+            <td>@(episode.PremiereDate.Date != DateTime.MinValue.Date ? episode.PremiereDate.ToShortDateString() : "Unknowed")</td>
+            <td>@episode.Number</td>
+            <td>@episode.Name</td>
+            <td>@episode.Subtitles</td>
+            <td>@(episode.HasTorrent ? "V" : "X")</td>
+        </tr>
+    }
+</table>

@@ -5,9 +5,9 @@
 </p>
 
 <h2>Recent episodes</h2>
-<table>
+<table class="table-bordered">
     <tr>
-    <th>Date</th><th>Serial</th><th>Number</th><th>Name</th><th>Subtitles</th>
+    <th>Date</th><th>Serial</th><th>Number</th><th>Name</th><th>Subtitles</th><th>Torrent</th>
     </tr>
     @foreach (var episode in Model.RecentEpisodes)
     {
@@ -17,15 +17,16 @@
             <td>@episode.Number</td>
             <td>@episode.Name</td>
             <td>@episode.Subtitles</td>
+            <td>@episode.HasTorrent</td>
         </tr>
     }
 </table>
 
 
 <h2>Upcomming episodes</h2>
-<table>
+<table class="table-bordered">
     <tr>
-    <th>Date</th><th>Serial</th><th>Number</th><th>Name</th><th>Subtitles</th>
+    <th>Date</th><th>Serial</th><th>Number</th><th>Name</th>
     </tr>
     @foreach (var episode in Model.UpcommingEpisodes)
     {
@@ -34,7 +35,6 @@
             <td>@episode.SerialName</td>
             <td>@episode.Number</td>
             <td>@episode.Name</td>
-            <td>@episode.Subtitles</td>
         </tr>
     }
 </table>
